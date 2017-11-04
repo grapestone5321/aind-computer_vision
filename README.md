@@ -1,1 +1,0 @@
-# aind-computer_vision
